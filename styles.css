@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;   
+    
+}
+#stop{
+    visibility: hidden;
+}
+
+
